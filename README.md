@@ -7,7 +7,7 @@ Projeto proposto no modulo dois do curso de Desenvolvimento Web FullStack da Res
 
 
 # 📋 Tecnologias utilizadas: 
-No projeto, utilizei HTML5, o CSS3 e o Javascript.
+No projeto utilizei HTML5, CSS3 e Javascript.
 
 
 # 📌 Link do projeto no github Pages:
