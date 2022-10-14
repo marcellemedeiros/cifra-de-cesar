@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./mediaQ.css">
+    <title>Decodificador</title>
+</head>
+
+<body>
+    <header>
+        <h1>DECODIFICANDO</h1>
+    </header>
+
+    <div class="pai" id="pai">
+
+        <div class="principal">
+            <!-- Inserindo dados -->
+            <label for="Codigo">Digite o código:</label><br>
+            <textarea placeholder="  Digite aqui sua Mensagem:" cols="32" id="digCod" rows="8"></textarea><br>
+
+            <!-- Selecionando o método de decodificação -->
+            <label for="Codigo1">Selecione a forma de decodificação:</label><br>
+            <select id="selecao">
+                <option id='op1' value="1">Selecione</option>
+                <option id='op2' value="2">Base64</option>
+                <option id='op3' value="3">Cifra de César</option>
+            </select>
+
+            <!-- Valor a ser incrementado na Cifra de César -->
+            <div class="CCesar" id="CCesar1">
+                <br><label for="Codigo1">Selecione o valor do passo:</label><br>
+                <input type="number" id="passoCCesar" min="1" max="26" required><br>
+            </div>
+        </div>
+        <div class="secundaria">
+            <!-- Codificar ou decodificar -->
+            <div class="radio">
+                <input type="radio" id="inCode" value="opcao1" name="opcao">
+                <label for="b64">Codifique</label>
+
+                <input type="radio" id="deCode" value="opcao2" name="opcao">
+                <label for="CfCesar">Decodifique</label>
+            </div>
+
+            <br><button id="btnRoda"><b>Selecione a opção</b></button>
+
+            <br><label for="Codigo2">Resultado:</label><br>
+            <textarea placeholder="  Seu resultado aparecerá aqui" cols="32" rows="8" id="resultadoCod"></textarea>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+
+</html>

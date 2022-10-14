@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Space+Mono&family=Ubuntu+Mono&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.CCesar{
+    display: none;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 255, 0.856);
+}
+
+.pai{
+    display: flex;
+    flex-direction: column;
+    padding-top: 3em;
+    padding-bottom: 10em;
+    background-color: black;
+    justify-content: space-evenly;
+}
+/* Definição principal */
+h1 {
+    font-family: 'Audiowide', cursive;
+    font-size: 3em;
+    color: #fefae0;
+    display: flex;
+    background-color:rgba(0, 0, 255, 0.856);
+    justify-content: center;
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Space Mono', monospace;
+    color: #a4ac86;
+}
+
+.secundaria {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Space Mono', monospace;
+    color: #a4ac86;
+    border-radius: 4em;
+}
+
+
+
+
+
+
+/* Botão - Estética */
+button{
+    border-radius: 6em;
+    background-color: red;
+    padding: 0.5em;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 15em;
+}
+
+/* Botão - msgo */
+button{
+    font-family: 'Space Mono', monospace;
+    font-size: 0.9em;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+/* Configuração INPUT */
+
+select{
+    height: 2.5em;
+}
+
+.digCod1{
+    height: 2.5em;
+}

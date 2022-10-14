@@ -1,0 +1,21 @@
+@media (max-width: 600px)
+{
+    body{
+        display: flex;
+        flex-direction: column;
+    }
+    .pai{
+        display: flex;
+        flex-direction: column;
+    }
+    h1{
+        font-size: 2em;
+    }
+    .gitHub{
+        margin-right: 2em;
+    }
+    .linkeDin{
+        margin-left: 2em;
+    }
+}
+
