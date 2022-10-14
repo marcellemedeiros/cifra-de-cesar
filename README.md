@@ -12,5 +12,7 @@ No projeto utilizei HTML5, CSS3 e Javascript.
 
 # 📌 Link do projeto no github Pages:
 
+By Marcelle Medeiros ❤️
+
 
 
