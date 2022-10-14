@@ -6,13 +6,14 @@ Projeto foi desenvolvido no intuito de que o usuário introduza uma mensagem par
 
 
 # 🚀 Finalidade
-O projeto foi uma proposta do curso em desenvolvimento web da Resília Educação aonde fomos desafiados a realizar um "programa" aonde o usuário consegue realizar uma criptofrafia.
+Projeto proposto no modulo dois do curso de Desenvolvimento Web FullStack da Resília Educação com a parceira da Prefeitura do Rio de Janeiro onde fomos desafiados a realizar um "programa" em que os usuários conseguissem realizar criptofrafia ou descriptografia de mensagens.
 
 
-# 📋 Tecnologias utilizadas: No projeto, utilizei HTML5, o CSS3 e o Javascript.
+# 📋 Tecnologias utilizadas: 
+No projeto, utilizei HTML5, o CSS3 e o Javascript.
 
 
 # 📌 Link do projeto no github Pages:
 
 
-# By Marcelle Medeiros
+
