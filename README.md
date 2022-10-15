@@ -1,16 +1,16 @@
-#Projeto Resília - Cifra de Cesar e Base64
+# Projeto Resília - Cifra de Cesar e Base64
 Projeto foi desenvolvido no intuito de que o usuário introduza uma mensagem para ser criptografada ou descriptografada para a Cifra de César ou Base64.
 
 
-#Finalidade
+# Finalidade
 Projeto proposto no modulo dois do curso de Desenvolvimento Web FullStack da Resília Educação com a parceira da Prefeitura do Rio de Janeiro onde fomos desafiados a realizar um "programa" em que os usuários conseguissem realizar criptofrafia ou descriptografia de mensagens.
 
 
-#Tecnologias utilizadas: 
+# Tecnologias utilizadas: 
 No projeto utilizei HTML5, CSS3 e Javascript.
 
 
-#Link do projeto no github Pages:
+# Link do projeto no github Pages:
 https://marcellemedeiros.github.io/cifra-de-cesar/
 
 
